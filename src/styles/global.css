@@ -1,0 +1,16 @@
+body {
+  background-color: #73c2fb;
+}
+h1,
+h2,
+p,
+.credits {
+  color: white;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a {
+  color: blueviolet;
+}
+h1 {
+}
