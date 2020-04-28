@@ -73,7 +73,7 @@ const steps = [
 	{
 		id: '11',
 		message:
-			"The glyph with the lazy 'S' and dots around it means 'cloud'. I take care of clouds, they provide rain for the people and animals.",
+			"The glyph with the lazy 'S' and dots around it means 'cloud'. I take care of clouds, they provide rain for the people and animals. Now stop bothering me, and be very careful about what you move!",
 		end: true,
 	},
 ];
