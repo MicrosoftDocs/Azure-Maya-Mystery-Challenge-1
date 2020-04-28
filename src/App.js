@@ -21,7 +21,7 @@ const chatbox = {
 const steps = [
 	{
 		id: '1',
-		message: 'Hi there, how are you doing?',
+		message: 'Excuse me, are you lost?',
 		trigger: '2',
 	},
 	{
@@ -31,7 +31,7 @@ const steps = [
 	},
 	{
 		id: '3',
-		message: "Looks like you're somewhere in the jungle, I don't see your coordinates.",
+		message: 'I see that you are in front of my temple. How dare you disturb me!',
 		trigger: '4',
 	},
 	{
@@ -41,7 +41,7 @@ const steps = [
 	},
 	{
 		id: '5',
-		message: 'Do you need my help?',
+		message: "I've seen humans like you before. Destroy and steal, that's all they know to do. Why are you here?",
 		trigger: '6',
 	},
 	{
@@ -51,7 +51,8 @@ const steps = [
 	},
 	{
 		id: '7',
-		message: "I bet you've found a puzzling glyph.",
+		message:
+			'Are you foolish enough to try to learn the name of my temple? If you are here to clean the mess that others have made before you, I will allow it.',
 		trigger: '8',
 	},
 	{
@@ -61,7 +62,7 @@ const steps = [
 	},
 	{
 		id: '9',
-		message: "Does it look like a lazy 's' with dots around it?",
+		message: "I will even give you a clue as to my temple's name. Perhaps you will even learn who I am!",
 		trigger: '10',
 	},
 	{
@@ -71,7 +72,8 @@ const steps = [
 	},
 	{
 		id: '11',
-		message: "Oh, that's a good one. It means 'cloud'. Keep looking for new glyphs!",
+		message:
+			"The glyph with the lazy 'S' and dots around it means 'cloud'. I take care of clouds, they provide rain for the people and animals.",
 		end: true,
 	},
 ];
@@ -79,7 +81,7 @@ const steps = [
 const ThemedExample = () => (
 	<ThemeProvider theme={otherFontTheme}>
 		<React.StrictMode>
-			<ChatBot style={chatbox} steps={steps} botAvatar="./prof.png" />
+			<ChatBot style={chatbox} steps={steps} botAvatar="./chac-chel.png" />
 		</React.StrictMode>
 	</ThemeProvider>
 );
