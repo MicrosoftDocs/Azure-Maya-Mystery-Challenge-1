@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). If you run it locally via `npm run start` you will be able to view the chat locally (on http://localhost:3000). But we'd like you to try it on Azure Static Sites!
 
-> You can learn more about how to build and host Azure Static Sites on Microsoft [Learn](https://docs.microsoft.com/azure/static-web-apps/overview?WT.mc_id=mayamystery-github-jelooper).
+> You can read more about how to build and host Azure Static Sites on the Microsoft [Docs](https://docs.microsoft.com/azure/static-web-apps/overview?WT.mc_id=mayamystery-github-jelooper). You can also walk through how to publish your static sites to Azure on Microsoft [Learn](https://docs.microsoft.com/en-us/learn/modules/publish-app-service-static-web-app-api?WT.mc_id=mayamystery-github-jelooper)
 
 To do this, follow these steps:
 
@@ -16,4 +16,6 @@ To do this, follow these steps:
 
 ![ASWA Screenshot](ASWA_screenshot2.png)
 
-4. Watch your GitHub Actions for the build to complete, and enjoy the chat! You will learn the name of the first mysterious blue glyph; return to the Azure Maya Mystery game and input it in the box to continue!
+4. Watch your GitHub Actions for the build to complete, and enjoy the chat in the URL provided by Azure Static Web Apps!
+
+🌈You will learn the name of the first mysterious blue glyph; return to the Azure Maya Mystery game and input it in the box to continue!🌈
