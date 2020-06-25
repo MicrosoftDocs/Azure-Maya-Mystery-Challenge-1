@@ -6,7 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To do this, follow these steps:
 
-1. Fork this repo to your own GitHub account and login to the [Azure Portal](https://aka.ms/trystaticwebapps).
+1. Fork this repo to your own GitHub account and either login to the [Azure Portal](https://aka.ms/trystaticwebapps) or use this button to deploy your code to the portal:
+
+[![Deploy to Azure button](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/?feature.customportal=false&WT.mc_id=mayamystery-github-jelooper#create/Microsoft.StaticApp)
 
 2. Walk through the app creation wizard to connect your GitHub repo that you forked previously to create a new static web app.
 
