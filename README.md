@@ -21,3 +21,7 @@ To do this, follow these steps:
 4. Watch your GitHub Actions for the build to complete, and enjoy the chat in the URL provided by Azure Static Web Apps!
 
 🌈You will learn the name of the first mysterious blue glyph; return to the Azure Maya Mystery game and input it in the box to continue!🌈
+
+---
+
+[Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct)
