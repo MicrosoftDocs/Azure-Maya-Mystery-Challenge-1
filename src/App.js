@@ -1,3 +1,6 @@
+/*Copyright (c) Microsoft Corporation.
+Licensed under the MIT license.*/
+
 import React from 'react';
 import { ThemeProvider } from 'styled-components';
 import ChatBot from 'react-simple-chatbot';
