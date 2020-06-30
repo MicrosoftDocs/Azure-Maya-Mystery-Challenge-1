@@ -1,3 +1,6 @@
+/*Copyright (c) Microsoft Corporation.
+Licensed under the MIT license.*/
+
 import React from 'react';
 import { ThemeProvider } from 'styled-components';
 import ChatBot from 'react-simple-chatbot';
@@ -81,7 +84,7 @@ const steps = [
 const ThemedExample = () => (
 	<ThemeProvider theme={otherFontTheme}>
 		<React.StrictMode>
-			<ChatBot style={chatbox} steps={steps} botAvatar="./chac-chel.png" />
+			<ChatBot style={chatbox} steps={steps} botAvatar="./chac-chel.png" botName="The deity" />
 		</React.StrictMode>
 	</ThemeProvider>
 );
