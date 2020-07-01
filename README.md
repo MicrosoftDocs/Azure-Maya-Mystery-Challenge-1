@@ -24,4 +24,16 @@ To do this, follow these steps:
 
 ---
 
+Learn more about Azure Static Web Apps at our upcoming event, a one of a kind live [event](http://aka.ms/createfrontend) from Microsoft about all things frontend.
+
+July 29, 2020
+8:30AM-11:00AM  PDT
+Virtual
+ 
+Join us for a half day of conversations with developers from the community on pressing topics for frontend developers, such as building inclusive and accessible web applications, static sites, serverless, and much more.
+
+![event image](webinar.jpg)
+
+---
+
 [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct)
